@@ -1,0 +1,66 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>images assignment</title>
+    </head>
+    <body>
+    <nav>
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#gallery">Gallery</a></li>
+            <li><a href="#menu">Menu</a></li>
+        </ul>
+    </nav>
+        <section id="home" style="color: darkblue;position: relative;">
+            <h1><b><i>HOME</i></b></h1>
+            <div>
+                <a href="https://plpacademy.powerlearnproject.org/course-module/631afee71557dcfbdc7dbf13">
+                    <img src="tech.jpg" alt="This is a tech image perceiving the world map." width="600" height="450"></a>
+                    <p>
+                        Your Ultimate Tech Hub for Students!
+
+                        Are you passionate about technology? Eager to explore the latest innovations, hone your skills, and connect with like-minded peers?
+                         You've come to the right place!
+                    </p>
+            </div>
+        </section>
+        <section id="gallery" style="color: darkblue;position: relative;">
+            <h1><b><i>GALLERY</i></b></h1>
+                <div>
+                    <img src="landscape with sunset.jpg" alt="An image of a grass covered field with a sunset" width="450" height="450">
+                    <b><h2 style="color: brown;background-color: aquamarine;">A beautiful grassland at sunstet</h2></b>
+                </div>
+                <div>
+                    <img src="desert.jpg" alt="A desert" height="450" width="600">
+                    <b><h2 style="color: brown;background-color: aquamarine;">A beautiful desert</h2>
+                </div>
+                <div>
+                    <img src="ocean with sunset.jpg" alt="An image of an ocean at sunset" width="600" height="450">
+                    <b><h2 style="color: brown;background-color: aquamarine;">A beautiful ocean at sunstet</h2></b>
+                </div>
+                <div>
+                    <img src="animals.jpg" alt="Wild animals" height="450" width="600">
+                    <b><h2 style="color: brown;background-color: aquamarine;">A group of wild animals mostly known to live in the sahara.</h2>
+                </div>
+        </section>
+        <section id="menu"  style="color: darkblue;position: relative;">
+            <h1><b><i>MENU</i></b></h1>
+            <ol style="color: darkslategrey;">
+                <li><a href="pizza.jpg">Pizza</a></li>
+                <li><a href="burger.jpg">Burger</a></li>
+                <li><a href="ugali.jpg">Ugali and sukumawiki</a></li>
+                <li><a href="fish.jpg">Fish</a></li>
+            </ol>
+            <div>
+                <img src="pizza.jpg" height="450" width="450">
+                <br>
+                <img src="burger.jpg" height="450" width="450">
+                <br>
+                <img src="ugali.jpg" height="450" width="450">
+                <br>
+                <img src="fish.jpg" height="450" width="450">
+            </div>
+        </section>
+    </body>
+</html>
