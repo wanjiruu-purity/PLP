@@ -1,0 +1,23 @@
+header{
+    padding: 10px;
+    text-align: center;
+    margin: 10px;
+    background-color: rgb(136, 83, 3);
+}
+
+label{
+    padding: 5px;
+    background-origin: padding-box;
+    margin: 5px;
+    background-color: rgb(177, 94, 34);
+    text-indent: 5%;
+}
+
+p{
+    background-color: rgb(228, 183, 101);
+    text-align: center;
+    text-decoration: brown;
+    border-color: black;
+    border-radius: 10px;
+    padding: 20px;
+}
