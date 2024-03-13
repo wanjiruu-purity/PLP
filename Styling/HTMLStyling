@@ -1,0 +1,67 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            CSS Features
+        </title>
+        <link rel="stylesheet" href="styling.css"> 
+    </head>
+    <body>
+        <header class="header" style="color: azure; size: 35px;">Purity Wanjiru Irungu</header>
+
+
+        <label class="label" style="color: azure; size: 25px;">Introduction</label>
+
+        <div>
+           <p>
+            Hello!, I'm a web development student eager to delve into the exciting world of technology and programming. As I embark on my journey in the field of technology, I am driven by a desire to understand the intricate mechanisms behind software, hardware and everything in between.
+            I thrive on solving complex problems and finding innovative solutions by designing algorithms, writing code or exploring the latest advancements in artificial intelligence, I'm constantly seeking to expand my knowledge and skills. I believe that technology has the power to shape the future.
+            I'm thrilled to be part of this dynamic and ever-evolving field and I look forward to the opportunities and adventures that lie ahead. Let's code the future together!            
+           </p> </div>
+        <label class="label" style="color: azure; size: 25px;">Skills</label>
+        
+        <div>
+                <ul>
+                    <label style="font-size: medium; color: rgb(41, 59, 10);">Programming</label>
+                    <li>Java</li>
+                    <li>Python</li>
+                    <li>Dart</li>
+                    <li>PHP</li>
+                    <li>HTML</li>
+                    <li>CSS</li>
+                    <li>Shell</li>
+                </ul>
+
+                <ul>
+                    <label style="font-size: medium; color: rgb(41, 59, 10);">Spreadsheets</label>
+                    <li>Google Sheets</li>
+                    <li>Microsoft Excel</li>
+                </ul>
+                <ul>
+                    <label style="font-size: medium; color: rgb(41, 59, 10);">Soft Skills</label>
+                    <li>Time management</li>
+                    <li>Teamwork</li>
+                    <li>Patience</li>
+                    <li>Verbal and written communication</li>
+                    <li>Creativity</li>
+                    <li>Problem solving</li>
+                </ul>
+        </div>
+
+        <label class="label" style="color: azure; size: 25px;">Contact Information</label>
+        <div>
+            <p>
+            phone Number: 07..........<br>
+            emergency phone: number 07..........<br>
+            email: ..........@gmail.com
+            </p>
+        </div>
+        <label class="label" style="color: azure; size: 25px;">Social Media</label>
+        <p>
+            <a href="https://www.instagram.com/">Instagram</a>
+            <a href="https://www.facebook.com/">Facebook</a>
+            <a href="https://twitter.com/?lang=en">X</a>
+        </p>
+    </body>
+</html>
